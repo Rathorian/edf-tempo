@@ -6083,6 +6083,10 @@
         {
             "date": "2024-02-29",
             "couleur": "TEMPO_BLANC"
+        },
+        {
+            "date": "2024-03-01",
+            "couleur": "TEMPO_BLEU"
         }
     ]
 }
