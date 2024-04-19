@@ -6279,6 +6279,10 @@
         {
             "date": "2024-04-18",
             "couleur": "TEMPO_BLANC"
+        },
+        {
+            "date": "2024-04-19",
+            "couleur": "TEMPO_BLEU"
         }
     ]
 }
