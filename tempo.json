@@ -6571,6 +6571,10 @@
         {
             "date": "2024-06-30",
             "couleur": "TEMPO_BLEU"
+        },
+        {
+            "date": "2024-07-01",
+            "couleur": "TEMPO_BLEU"
         }
     ]
 }
