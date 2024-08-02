@@ -6699,6 +6699,10 @@
         {
             "date": "2024-08-01",
             "couleur": "TEMPO_BLEU"
+        },
+        {
+            "date": "2024-08-02",
+            "couleur": "TEMPO_BLEU"
         }
     ]
 }
